@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @amechanos
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning discord.py
-- 💞️ I’m looking to collaborate on discord bot
-- 📫 How to reach me: discord - amechanos#0007
+graphic & brand designer 
+from australia
 
 <!---
 amechanos/amechanos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
